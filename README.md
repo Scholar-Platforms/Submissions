@@ -1,5 +1,5 @@
 # Submissions
-We're taking existing research papers and adding them on-chain in reproducible format.
+We're taking existing research papers and adding them on-chain in reproducible format. [Checkout what we've got so far](https://usescholar.org/research).
 
 How to contribute? Head over to our [Discord](https://discord.gg/tJmw3UdYZV) to get involved.
 
