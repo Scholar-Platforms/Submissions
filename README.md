@@ -21,4 +21,4 @@ How to contribute? Head over to our [Discord](https://discord.gg/tJmw3UdYZV) to 
     1. We must be able to reproduce the figures and results of the paper with the code and data
 4. Upload code and data to Github (if there isn’t already a repository)
     1. Ideally we’d create the repository under the [Scholar organization](https://github.com/Scholar-Platforms) (Reach out to Manveer for help with this)
-5. Create a Pull Request on this Github repository.
+5. Fill out `SUBMISSION_TEMPLATE.md` and submit a Pull Request on this Github repository.
