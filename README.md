@@ -17,8 +17,8 @@ How to contribute? Head over to our [Discord](https://discord.gg/tJmw3UdYZV) to 
     1. [HowCanIShareIt](https://www.howcanishareit.com/) enables us to check licensing using DOIs
     2. Some journals/platforms maybe require specific attribution
     3. [Additional information](https://creativecommons.org/faq/#for-licensees) on using CC-licensed material
-3. Reach out to the author to obtain permission to share, and associated code and data
-    1. We must be able to reproduce the figures and results of the paper with the code and data
+3. Reach out to the author to obtain permission to share, and to get the associated code and data
+    1. We should be able to reproduce the figures and results of the paper with the code and data
 4. Upload code and data to Github (if there isn’t already a repository)
     1. Ideally we’d create the repository under the [Scholar organization](https://github.com/Scholar-Platforms) (Reach out to Manveer for help with this)
 5. Fill out `SUBMISSION_TEMPLATE.md` and submit a Pull Request on this Github repository.
