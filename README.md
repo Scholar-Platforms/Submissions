@@ -1,11 +1,16 @@
 # Submissions
-We're taking existing research papers and adding them on-chain in reproducible format. [Checkout what we've got so far](https://usescholar.org/research).
-
-How to contribute? Head over to our [Discord](https://discord.gg/tJmw3UdYZV) to get involved.
+We're taking existing research papers and adding them on-chain in reproducible format. [Checkout what we've got so far](https://usescholar.org/research), or learn more about [our mission](https://usescholar.org/about)!
 
 # Contribute
 
+Want to contribute? Head over to our [Discord](https://discord.gg/tJmw3UdYZV) to join the community and get involved!
+
+Help realign science with reproducibility by helping to bring research on-chain by following the steps below.
+
 ## Steps
+
+If you get stuck or need help, reach out in the `#contribute` channel in our Discord.
+
 
 1. Pick a research paper to add
     1. Some places to start finding papers:
