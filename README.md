@@ -5,11 +5,13 @@ We're taking existing research papers and adding them on-chain in reproducible f
 
 Want to contribute? Head over to our [Discord](https://discord.gg/tJmw3UdYZV) to join the community and get involved!
 
-Help realign science with reproducibility by helping to bring research on-chain by following the steps below.
+We're bringing existing open-access research papers on-chain. Ideally with code, data, and a notebook for easily reproducibility; here's [an example of the Ethereum Whitepaper](https://usescholar.org/research/0).
 
-## Steps
+## Requirements
 
-If you get stuck or need help, reach out in the `#contribute` channel in our Discord.
+A rough list of requirements to get research on-chain through Scholar. This process and these requirements will evolve over time.
+
+We'll definitely automate whatever parts we can. We're working on an API at the moment.
 
 
 1. Pick a research paper to add
@@ -20,10 +22,13 @@ If you get stuck or need help, reach out in the `#contribute` channel in our Dis
         4. [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
 2. Check [CC licensing](https://creativecommons.org/about/cclicenses/): We can use CC0, CC BY and CC BY-NC
     1. [HowCanIShareIt](https://www.howcanishareit.com/) enables us to check licensing using DOIs
-    2. Some journals/platforms maybe require specific attribution
+    2. Some journals/platforms maybe require specific attribution — we must conform to those attribution requirements
     3. [Additional information](https://creativecommons.org/faq/#for-licensees) on using CC-licensed material
 3. Reach out to the author to obtain permission to share, and to get the associated code and data
     1. We should be able to reproduce the figures and results of the paper with the code and data
 4. Upload code and data to Github (if there isn’t already a repository)
-    1. Ideally we’d create the repository under the [Scholar organization](https://github.com/Scholar-Platforms) (Reach out to Manveer for help with this)
+    1. Ideally we’d create the repository under the [Scholar organization](https://github.com/Scholar-Platforms) (Reach out to Manveer if you need help with this)
 5. Fill out `SUBMISSION_TEMPLATE.md` and submit a Pull Request on this Github repository.
+
+
+If you get stuck or need help, reach out in the `#contribute` channel in our Discord.
