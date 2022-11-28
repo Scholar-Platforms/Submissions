@@ -5,7 +5,7 @@ We're taking existing research papers and adding them on-chain in reproducible f
 
 Want to contribute? Head over to our [Discord](https://discord.gg/tJmw3UdYZV) to join the community and get involved!
 
-We're bringing existing open-access research papers on-chain. Ideally with code, data, and a notebook for easily reproducibility; here's [an example of the Ethereum Whitepaper](https://usescholar.org/research/0).
+Here's [an example of the Ethereum Whitepaper](https://usescholar.org/research/0). Ideally we'd add the PDF, code, data, and a notebook for easy reproducibility.
 
 ## Requirements
 
