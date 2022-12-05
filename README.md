@@ -27,6 +27,7 @@ We'll definitely automate whatever parts we can. We're working on an API at the 
     3. [Additional information](https://creativecommons.org/faq/#for-licensees) on using CC-licensed material
 3. Reach out to the author to obtain permission to share, and to get the associated code and data
     1. Ideally we'd be able to reproduce the figures and results of the paper
+    1. We can also check Zenodo, Protocols.io, PapersWithCode, and Figshare for associated artifacts
 4. Upload code and data to Github (if there isn’t already a repository)
     1. Ideally we’d create the repository under the [Scholar organization](https://github.com/Scholar-Platforms) (Reach out to Manveer if you need help with this)
 5. Fill out `SUBMISSION_TEMPLATE.md` and submit a Pull Request on this Github repository.
