@@ -9,17 +9,18 @@ Here's [an example of the Ethereum Whitepaper](https://usescholar.org/research/0
 
 ## Requirements
 
-A rough list of requirements to get research on-chain through Scholar. This process and these requirements will evolve over time.
+A rough list of things we need to get research on-chain through Scholar. This process and this list will evolve over time.
 
 We'll definitely automate whatever parts we can. We're working on an API at the moment.
 
 
-1. Pick a research paper to add
+1. Pick an open-access research paper to add
     1. Some places to start finding papers:
         1. Add to a web of citations that’s already [on Scholar](https://usescholar.org/research)
-        2. [10 Most Important White Papers in Cryptocurrency](https://www.forbes.com/sites/ninabambysheva/2021/02/13/satoshi--company-the-10-most-important-scientific-white-papers-in-development-of-cryptocurrencies/?sh=75ccb2dd2057)
-        3. [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers)
-        4. [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
+        2. Pick one from the [list of top publications we've curated](https://docs.google.com/spreadsheets/d/1CtyLJXxYL3c4npu4RJ6VwGhbOS5tzbNx_ov6YPsu_bU/edit?usp=sharing)
+        3. [10 Most Important White Papers in Cryptocurrency](https://www.forbes.com/sites/ninabambysheva/2021/02/13/satoshi--company-the-10-most-important-scientific-white-papers-in-development-of-cryptocurrencies/?sh=75ccb2dd2057)
+        4. [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers)
+        5. [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
 2. Check [CC licensing](https://creativecommons.org/about/cclicenses/): We can use CC0, CC BY and CC BY-NC
     1. [HowCanIShareIt](https://www.howcanishareit.com/) enables us to check licensing using DOIs
     2. Some journals/platforms maybe require specific attribution — we must conform to those attribution requirements
