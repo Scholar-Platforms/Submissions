@@ -18,6 +18,7 @@ We'll definitely automate whatever parts we can. We're working on an API at the 
     1. Some places to start finding papers:
         1. Add to a web of citations that’s already [on Scholar](https://usescholar.org/research)
         2. Pick one from the [list of top publications we've curated](https://docs.google.com/spreadsheets/d/1CtyLJXxYL3c4npu4RJ6VwGhbOS5tzbNx_ov6YPsu_bU/edit?usp=sharing)
+            - [Open-Access Types](https://en.wikipedia.org/wiki/Open_access#Colour_naming_system)
         3. [10 Most Important White Papers in Cryptocurrency](https://www.forbes.com/sites/ninabambysheva/2021/02/13/satoshi--company-the-10-most-important-scientific-white-papers-in-development-of-cryptocurrencies/?sh=75ccb2dd2057)
         4. [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers)
         5. [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
