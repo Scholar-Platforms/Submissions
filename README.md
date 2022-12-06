@@ -1,5 +1,5 @@
 # Submissions
-We're building a truly reproducible version of our scientific record, because science is about independent replicability, not prestigious citation.
+We're building a truly reproducible version of our scientific record, because science is about independent replication, not prestigious citation.
 [Checkout what we've got so far](https://usescholar.org/research), or learn more about [our mission](https://usescholar.org/about)!
 
 # Contribute
