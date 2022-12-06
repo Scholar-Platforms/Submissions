@@ -26,3 +26,17 @@
 | PDF/Article | http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf |
 | Repository | https://github.com/zcash/zcash |
 | Reproducible Notebook |  |
+
+## Citations
+
+### Cites
+
+| ID | Title |
+|---|---|
+| 1 | Bitcoin: A Peer-to-Peer Electronic Cash System |
+
+### Cited By
+
+| ID | Title |
+|---|---|
+|  |  |
