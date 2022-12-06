@@ -1,5 +1,6 @@
 # Submissions
-We're taking existing research papers and adding them on-chain in reproducible format. [Checkout what we've got so far](https://usescholar.org/research), or learn more about [our mission](https://usescholar.org/about)!
+We're building a truly reproducible version of our scientific record, because science is about independent replicability, not prestigious citation.
+[Checkout what we've got so far](https://usescholar.org/research), or learn more about [our mission](https://usescholar.org/about)!
 
 # Contribute
 
