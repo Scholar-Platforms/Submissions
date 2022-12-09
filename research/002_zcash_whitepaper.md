@@ -5,7 +5,7 @@
 | Title | Zerocash: Decentralized Anonymous Payments from Bitcoin |
 | DOI |  |
 | Published Date (YYYY-MM-DD) | 2014-05-18 |
-| License (e.g. CC-BY) | Unlicensed |
+| License (e.g. CC-BY) | CC-BY |
 
 ## Authors
 
