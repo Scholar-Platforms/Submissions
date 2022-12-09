@@ -24,7 +24,7 @@
 | Attribute | URL |
 |---|---|
 | PDF/Article | http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf |
-| Repository | https://github.com/zcash/zcash |
+| Repository | https://github.com/Scholar-Platforms/Zerocash-Extended-Whitepaper |
 | Reproducible Notebook |  |
 
 ## Citations
